@@ -1,0 +1,10 @@
+# Foundry build output
+cache/
+out/
+
+# Broadcast logs include the deployer's wallet address
+broadcast/
+
+# Local env files
+.env
+.env.*
